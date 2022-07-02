@@ -1,0 +1,52 @@
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3 {
+    display: inline;
+}
+
+.heading button {
+    float: right;
+    border: 3px dotted blue ;
+}
+
+.bigimg {
+    width: 100%;
+}
+
+#start, #status {
+    font-size: 22px;
+}
+
+#kaalaa {
+    background-color: brown;
+}
+
+#popo {
+    width: 90%;
+}
+
+.aankhe {
+    display: inline-block;
+    width: 45%;
+}
+
+body {
+    background-color: gray;
+}
+
+.momo {
+    text-align: left;
+    font-size: 24.5675px;
+}
+
+#kaalaa {
+    position: fixed;
+    bottom: 0px;
+    background-color: cornsilk;
+    width: 100%;
+    margin-bottom: 0px;
+    line-height: 1.15;
+}
